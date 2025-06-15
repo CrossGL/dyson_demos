@@ -234,7 +234,7 @@ For issues, questions, or feature requests, join our  [discord chanel](https://d
 
 ## License
 
-[Your License Here]
+[License](https://github.com/CrossGL/dyson_demos/blob/main/LICENSE)
 
 ---
 
